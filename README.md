@@ -13,7 +13,7 @@ Da keine personenbezogenen Daten erfasst werden, werden auch keine Daten verwend
 Diese App verwendet keine Cookies oder andere Tracking-Technologien.
 
 ### Kontakt
-Bei Fragen zur Datenschutzerklärung können Sie uns unter [[die Github-Support-Funktion]](https://github.com/Krillle/next-charger-public/issues) erreichen.
+Bei Fragen zur Datenschutzerklärung können Sie uns unter [die Github-Support-Funktion](https://github.com/Krillle/next-charger-public/issues) erreichen.
 
 ### Änderungen der Datenschutzerklärung
 Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht.
