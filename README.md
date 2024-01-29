@@ -1,7 +1,7 @@
-## Datenschutzerklärung für Next Charger iOS App
+## Datenschutzerklärung für Charge My Way Charger iOS App
 
 ### Einleitung
-Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und den Zweck der Verarbeitung von personenbezogenen Daten innerhalb meiner App Next Charger auf.
+Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und den Zweck der Verarbeitung von personenbezogenen Daten innerhalb der App Charge My Way auf.
 
 ### Welche Daten werden erfasst?
 Diese App erfasst keinerlei personenbezogene Daten.
